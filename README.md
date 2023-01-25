@@ -1,12 +1,14 @@
 # Winter
+
 My first repository to store and write
+
 I'll write from the bioinformatics class we had from 23rd Monday January 2023 to 26TH Friday January 2023 
 
 # DAY ONE
 
 1.Installation of tools
 
- Install;
+ *Install;
  
  ~Gitbash
  
