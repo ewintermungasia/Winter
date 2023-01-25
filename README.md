@@ -4,25 +4,30 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
 # DAY ONE
 
-1.Installation of tools**
+1.Installation of tools
 
  install;
- gitbash*
- Rstudio*
+ 
+ ~gitbash
+ 
+ ~Rstudio
 
 
 # DAY TWO
 
-1.Introduction to command line**
+1.Introduction to command line
 
-2.Introduction to directories**
+2.Introduction to directories
+
+3.introduction to git bash
 
 # DAY THREE
 
-1.Introduction to shell**
+1.Introduction to shell
 
-2.Introduction to git hub**
-  .creating account*
+2.Introduction to git hub
+
+  ~creating account*
 
 
 
