@@ -11,6 +11,8 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
  ~Gitbash
  
  ~Rstudio
+ 
+ ~R.4.4.2
 
 
 # DAY TWO
@@ -29,7 +31,9 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
   ~Creating account*
   
-  ~Opeming and creating a repository
+  ~Opening and creating a repository
+  
+  ~Saving repositories(committing changes)
   
   ~Storing and writing my first repository
 
