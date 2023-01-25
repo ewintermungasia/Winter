@@ -6,9 +6,9 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
 1.Installation of tools
 
- install;
+ Install;
  
- ~gitbash
+ ~Gitbash
  
  ~Rstudio
 
@@ -19,7 +19,7 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
 2.Introduction to directories
 
-3.introduction to git bash
+3.Introduction to git bash
 
 # DAY THREE
 
@@ -27,7 +27,11 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
 2.Introduction to git hub
 
-  ~creating account*
+  ~Creating account*
+  
+  ~Opeming and creating a repository
+  
+  ~Storing and writing my first repository
 
 
 
