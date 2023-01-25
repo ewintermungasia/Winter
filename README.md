@@ -4,15 +4,15 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
 # DAY ONE
 Installation of tools
- install
- gitbash
+ ~install
+ ~gitbash
 
 # DAY TWO
-Introduction to command line
+~Introduction to command line
 
 # DAY THREE
-Introduction to shell
-Introduction to git hub
+~Introduction to shell
+~Introduction to git hub
 
 
 
