@@ -2,7 +2,7 @@
 
 My first repository to store and write
 
-I'll write from the bioinformatics class we had from 23rd Monday January 2023 to 26TH Friday January 2023 
+I'll write from the bioinformatics workshop we had from 23rd Monday January 2023 to 26TH Friday January 2023 
 
 # DAY ONE
 
@@ -10,16 +10,22 @@ I'll write from the bioinformatics class we had from 23rd Monday January 2023 to
 
  *Install;
  
- ~Gitbash
+  ~Gitbash
  
- ~Rstudio
+  ~Rstudio
  
- ~R.4.4.2
+  ~R.4.4.2
 
 
 # DAY TWO
 
 1.Introduction to command line
+
+ ~using of the (pwd) command
+
+ ~using the (ls) command
+ 
+ ~using the (cd) command
 
 2.Introduction to directories
 
