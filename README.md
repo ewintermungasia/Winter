@@ -3,18 +3,20 @@ My first repository to store and write
 I'll write from the bioinformatics class we had from 23rd Monday January 2023 to 26TH Friday January 2023 
 
 # DAY ONE
-Installation of tools**
- ~install*
- ~gitbash*
+1.Installation of tools**
+ install;
+ gitbash*
+ Rstudio*
+
 
 # DAY TWO
-~Introduction to command line**
-~introduction to directories**
+1.Introduction to command line**
+2.Introduction to directories**
 
 # DAY THREE
-~Introduction to shell**
-~Introduction to git hub**
-  ~creating account
+1.Introduction to shell**
+2.Introduction to git hub**
+  .creating account*
 
 
 
